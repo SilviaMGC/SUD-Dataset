@@ -4,7 +4,17 @@ Authors
 
 ## Point Cloud attributes
 ### MLS point clouds
+XYZ
+Number of Retuns
+Return number
+GPS Time
+Intensity
+Classification
+
 ### HMLS point clouds
+XYZ
+Classification
+
 ## Classes
 Road (label 0)
 Sidewlak (label 1)
