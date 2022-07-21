@@ -29,7 +29,7 @@ This dataset covers around 2 km of streets, andt contains fourteen segments of s
 - Others (label 7)
 
 ## Download
-Dataset can be download at [Github pages](https://universidadevigo-my.sharepoint.com/:f:/g/personal/silvgonzalez_uvigo_gal/Em0OZC-FmxtBgrXdZgxGrewBdVgkexzcJ-SDFIYJSMRK5A?e=mZMWnZ)
+Dataset can be download at [OneDrive](https://universidadevigo-my.sharepoint.com/:f:/g/personal/silvgonzalez_uvigo_gal/Em0OZC-FmxtBgrXdZgxGrewBdVgkexzcJ-SDFIYJSMRK5A?e=mZMWnZ)
 ## Citation
 
 ## Avknowledgements
