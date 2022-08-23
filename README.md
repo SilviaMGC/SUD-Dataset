@@ -1,5 +1,5 @@
 # SUD-Dataset
-Authors
+Silvia María González Collazo, Jesús Balado, Iván Garrido, Javier Grandío, Rabbia Rashdi, Elisavet Tsiranidou, Pablo del Río-Barral, Erik Rúa, Iván Puente, Elena González and Henrique Lorenzo
 ## Introduction
 The Santiago Urban Dataset (SUD) is a large labelled point cloud database acquired with MLS and HMLS scaners in Santiago de Compostela (Spain). Both data were georeferenced and labelled into eight main classes; *road, sidewalk, curb, buildings, vehicles, vegetation, pole-like elements* and *others*. Therefore, it is presented a datased which distinguish the ground urban elements and combines MLS with HMLS 3D point clouds.
 This dataset covers around 2 km of streets, andt contains fourteen segments of six urban streets.
