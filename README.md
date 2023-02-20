@@ -5,6 +5,11 @@ The Santiago Urban Dataset (SUD) is a large labelled point cloud database acquir
 This dataset covers around 2 km of streets, and contains fourteen segments of six urban streets.
 
 ![Esto es una imagen](Image_1.png)
+
+Given the existence of two data sources, three tests with their corresponding three training sessions were performed: one considering only the MLS point clouds, another one considering only the HMLS point clouds and a third one considering both MLS and HMLS point clouds. The dataset was divided into training, validation and test sets. The following table shows the accuracies obtained for each training session.
+
+
+
 ## Point Cloud attributes
 ### MLS point clouds
 - XYZ
