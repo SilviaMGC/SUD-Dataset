@@ -8,11 +8,11 @@ This dataset covers around 2 km of streets, and contains fourteen segments of si
 
 Given the existence of two data sources, three tests with their corresponding three training sessions were performed: one considering only the MLS point clouds, another one considering only the HMLS point clouds and a third one considering both MLS and HMLS point clouds. The dataset was divided into training, validation and test sets. The following table shows the accuracies obtained for each training session.
 
-|                |---| Road | Sidewalk | Curb | Building | Vehicles | Vegetation | Poles |Others |
-| ---            |---| ---  | ---      | ---  | ---      | ---      | ---        | ---   | ---   |
-| PointNet MLS   |---|90.83%|75.58%    |64.14%|94.95%    |83.12%    |81.19%      |57.10% |23.31% |
-| PointNet HMLS  |---|62.20%|70.31%    |0.00% |94.95%    |63.91%    |78.56%      |61.75% |51.69% |
-| PointNet H&MLS |---|85.21%|73.00%    |30.35%|96.16%    |82.89%    |84.65%      |50.54% |45.05% |           
+|                | Road | Sidewalk | Curb | Building | Vehicles | Vegetation | Poles |Others |
+| ---            | ---  | ---      | ---  | ---      | ---      | ---        | ---   | ---   |
+| **PointNet MLS**   |90.83%|75.58%    |64.14%|94.95%    |83.12%    |81.19%      |57.10% |23.31% |
+| **PointNet HMLS**  |62.20%|70.31%    |0.00% |94.95%    |63.91%    |78.56%      |61.75% |51.69% |
+| **PointNet H&MLS** |85.21%|73.00%    |30.35%|96.16%    |82.89%    |84.65%      |50.54% |45.05% |           
 
 ## Point Cloud attributes
 ### MLS point clouds
