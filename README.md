@@ -50,5 +50,5 @@ Volume 238, Part B,
 ISSN 0957-4174,
 https://doi.org/10.1016/j.eswa.2023.121842.
 
-## Avknowledgements
+## Acknowledgements
 This research was funded by the Xunta de Galicia, grant numbers ED481B-2019-061 and ED431C 2020/01, and by the Ministerio de Ciencia, Innovación y Universidades -Gobierno de España-, grant number PID2019-105221RB-C43/AEI/10.13039/501100011033. This paper was carried out in the framework of the InfraROB project (Maintaining integrity, performance and safety of the road infrastructure through autonomous robotized solutions and modularization), which has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 955337. It reflects only the authors’ views. Neither the European Climate, Infrastructure, and Environment Executive Agency (CINEA) nor the European Commission is in any way responsible for any use that may be made of the information it contains. Authors also would like to thank to CESGA for the use of their servers. Funding for open access charge: Universidade de Vigo/CISUG.
