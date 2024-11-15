@@ -38,7 +38,7 @@ Given the existence of two data sources, three tests with their corresponding th
 - Others (label 7)
 
 ## Download
-Dataset can be download at [OneDrive](https://universidadevigo-my.sharepoint.com/:f:/g/personal/silvgonzalez_uvigo_gal/Em0OZC-FmxtBgrXdZgxGrewBdVgkexzcJ-SDFIYJSMRK5A?e=ZpK2Kx)
+Dataset can be download at [OneDrive](https://universidadevigo-my.sharepoint.com/:f:/g/personal/jbalado_uvigo_gal/EgKJWUjvcK5El0JEMSe5CwUBCNdDbPTUIvGMd70utGdjPQ?e=8Sfdvn)
 ## Citation
 Silvia María González-Collazo, Jesús Balado, Iván Garrido, Javier Grandío, Rabia Rashdi, Elisavet Tsiranidou, Pablo del Río-Barral, Erik Rúa, Iván Puente, Henrique Lorenzo,
 Santiago urban dataset SUD: Combination of Handheld and Mobile Laser Scanning point clouds,
